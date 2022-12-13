@@ -25,7 +25,7 @@
     "test/",
     "Procfile",
     "demo.html",
-    "server.js"
+    "index.js"
   ],
   "dependencies": {
     "http-proxy": "^1.18.1",
